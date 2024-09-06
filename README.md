@@ -1,5 +1,5 @@
 # Weather-App
-A simple web-based application that displays real-time weather information for any city in the world. This app fetches data from a weather API and shows the current temperature, weather condition, humidity, wind speed, and more.
+A simple web-based application that displays real-time weather information for any city in the world. This app fetches data from a weather API and shows the current temperature, humidity, wind speed, and clouds.
 # Technologies Used
 HTML: Structure of the app.
 CSS: Styling the app, including responsiveness.
