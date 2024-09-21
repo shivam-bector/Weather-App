@@ -81,7 +81,7 @@ async function fetchUserWeatherInfo(coordinates) {
     }
     catch(err) {
         loadingScreen.classList.remove("active");
-        console.log("Error 404",err);
+        console.log("Error 404");
 
     }
 
